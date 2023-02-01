@@ -30,5 +30,18 @@ A futile attempt to have a resume of all my projects on a single page.
 * vimium-c Public 
 * django-email-blacklist Public
 * rofi-shortcuts
+* rofi-zeal
+* MangoHud
+* zeioth-lutris
+* rofi-scripts
+* atom-visual-studio-code-light-ui
+* atom-visual-studio-code-ui
+* optimus-manager-qt
+* dxvk-cache-pool 
+* GameMetrics landing + Measuring methodology
+*
+* 
+
+
 
 Also, count how many issues and PR you have reported in total.
