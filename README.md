@@ -14,6 +14,13 @@ A futile attempt to have a resume of all my projects on a single page.
 * Delete what is not relevant. 
 * Add descriptions and photos.
 
+## Startup projects
+
+Projects listed here were developed for startups i've been cofounder of. 
+
+* Jinn.es: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam).
+* GameMetrics.com: Analytics for game developers. Website that through the use of web crawling, statistics, and our own internal API, provided crucial market data to videogame developers. Incubated in ImpactHub Bucharest (Romania) and Polo Digital (Málaga).
+
 
 ## List 
 
@@ -49,8 +56,8 @@ A futile attempt to have a resume of all my projects on a single page.
 * [angular-no-captcha](https://github.com/Zeioth/angular-no-captcha)
 * [django-user-accounts](https://github.com/Zeioth/django-user-accounts)
 * [angular-satellizer](https://github.com/Zeioth/satellizer)
-*
-*
-*
+* Google PlayStoreCrawler (Chosed source)
+* AppleStoreCrawler (closed souce)
+
 
 Also, count how many issues and PR you have reported in total.
