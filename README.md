@@ -24,18 +24,17 @@ Projects listed here were developed for startups i've been cofounder of.
 
 ## List 
 
-* gimp-plugin-bimp Public 
 * zeioth-zmk
-* wofi-emoji Public 
-* wob 
 * zeioth-qmk
+* wofi-emoji
+* wob 
 * wofi-calc
 * BrrrOS
 * manjaro-sway
 * adrian-innotopic-test
 * i3blocks-contrib 
-* vimium-c Public 
-* django-email-blacklist Public
+* vimium-c
+* django-email-blacklist
 * rofi-shortcuts
 * rofi-zeal
 * MangoHud
