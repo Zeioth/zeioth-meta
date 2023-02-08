@@ -25,8 +25,8 @@ Projects listed here were developed for startups i've been cofounder of.
 ## Remarkable projects
 
 
-* zeioth-qmk: I coded this C driver for a wired wireless keyboard I built. I use it for coding when I'm not at home with my pocket computer. [More info](https://github.com/Zeioth/zeioth-keyboard-firmware).
-* zeioth-zmk: I coded this C driver for a bluetooth wireless keyboard I built. I use it for coding when I'm not at home with my pocket computer. Because this version is wireless, it uses a different technology, so this is a new driver I wrote from scratch. [More info](https://github.com/Zeioth/zeioth-keyboard-firmware).
+* [zeioth-qmk](https://github.com/Zeioth/zeioth-qmk): I coded this C driver for a wired wireless keyboard I built. I use it for coding when I'm not at home with my pocket computer. [More info](https://github.com/Zeioth/zeioth-keyboard-firmware).
+* [zeioth-zmk](https://github.com/Zeioth/zeioth-zmk): I coded this C driver for a bluetooth wireless keyboard I built. I use it for coding when I'm not at home with my pocket computer. Because this version is wireless, it uses a different technology, so this is a new driver I wrote from scratch. [More info](https://github.com/Zeioth/zeioth-keyboard-firmware).
 * [wofi-emoji](https://github.com/Zeioth/wofi-emoji): Emoji selector for Linux based on WOfi. The original author abandoned the project, so I continued it and fixed some bugs.![screenshot_2023-02-08_21-48-40_829722436](https://user-images.githubusercontent.com/3357792/217647818-1f710289-6032-4d3e-be83-4020e86fcf66.png)
 
 * wob 
