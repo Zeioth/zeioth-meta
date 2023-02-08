@@ -58,6 +58,7 @@ Projects listed here were developed for startups i've been cofounder of.
 * [angular-satellizer](https://github.com/Zeioth/satellizer)
 * Google PlayStoreCrawler (Chosed source)
 * AppleStoreCrawler (closed souce)
+* [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial)
 
 
 Also, count how many issues and PR you have reported in total.
