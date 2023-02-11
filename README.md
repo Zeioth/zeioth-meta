@@ -32,7 +32,9 @@ Projects listed here were developed for startups i've been cofounder of.
 ![screenshot_2023-02-11_21-31-36_246220057](https://user-images.githubusercontent.com/3357792/218279937-edab1c36-053c-4147-a4f4-51053b557645.png)
 
 ## Personal/fun projects
-* [Brros](https://github.com/Zeioth/BrrrOS): A non distributable linux dirtribution for personal usage. Running installer.sh after in a clean arch linux partition, will install hundreds of packages and custom configurations in an automated way. It allows me to reinstall my system in a matter of minutes.
+* [Brros](https://github.com/Zeioth/BrrrOS): My personal non distributable linux dirtribution, for personal usage. It's an installer that you run in a clean arch linux environment. It will install hundreds of packages and custom configurations in an automated way. It allows me to reinstall my system in a matter of minutes.
+![screenshot_2023-02-11_21-49-07_340866431](https://user-images.githubusercontent.com/3357792/218280583-88c8e871-f61d-4292-98b3-a3dd1ea0c317.png)
+
 * Automated cloud backups: Bash script that encrypt and upload all my (safe) personal files to the cloud through a programmed task. It allow me to recover from any potential problem in my computer in a matter of minutes. I haven't made this one public, because it is 100% custom.
 ![screenshot_2023-02-11_21-38-23_163064731](https://user-images.githubusercontent.com/3357792/218280171-8de5fe5b-9e67-4d28-aa5c-2482cb917a6b.png)
 
