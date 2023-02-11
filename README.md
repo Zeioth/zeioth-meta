@@ -1,8 +1,7 @@
 # zeioth-meta
 A futile attempt to have a resume of all my projects on a single page. 
 
-## About third party data protection
-Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
+
 
 ## Content I should write here?
 
@@ -10,10 +9,11 @@ Please, understand that out of respect to my contractors, I can't disclose detai
 * Pipy packages
 * Npm packages
 * Startups y subproyectos de estas. Experiencia y roles.
+* Also, count how many issues and PR you have reported in total.
 
 ## TODO:
 
-* Copy here the same of all your repositories. 
+* ✅ Copy here the same of all your repositories. 
 * Delete what is not relevant. 
 * Add descriptions and photos.
 
@@ -81,5 +81,5 @@ X
 
 ![screenshot_2023-02-11_21-55-27_593015469](https://user-images.githubusercontent.com/3357792/218280814-6e2f556c-b3b1-409c-a51c-c50e2abd0fd2.png)
 
-
-Also, count how many issues and PR you have reported in total.
+## About third party data protection
+Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
