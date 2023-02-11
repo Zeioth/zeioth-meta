@@ -1,8 +1,8 @@
 # zeioth-meta
 A futile attempt to have a resume of all my projects on a single page. 
 
-## About data protection
-Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
+## About third party data protection
+Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details. So in this section I will focus on my contributions to the open source community.
 
 ## Content I should write here?
 
