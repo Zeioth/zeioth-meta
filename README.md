@@ -44,9 +44,10 @@ Projects listed here were developed for startups i've been cofounder of.
 ## Bug reports
 * [Wob](https://github.com/francma/wob): Volume bar for Linux. 
 ![screenshot_2023-02-11_21-28-34_120481289](https://user-images.githubusercontent.com/3357792/218279822-cc3c44ce-4302-4ca5-b4b5-003f937a4214.png)
-X
-X
-* manjaro-sway
+
+* [manjaro-sway](https://github.com/manjaro-sway/manjaro-sway): [Credited developer](https://github.com/manjaro-sway/manjaro-sway#contributors-) of the Linux Distribution 'Manjaro Sway'. Icontributed to the desktop taskbar widgets, solving, and reporting bugs.
+![Manjaro sway](https://user-images.githubusercontent.com/3357792/218281847-18177729-04ba-4054-8fb7-281ed90d6040.png)
+
 * adrian-innotopic-test
 * i3blocks-contrib 
 * vimium-c
