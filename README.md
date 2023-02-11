@@ -2,7 +2,7 @@
 A futile attempt to have a resume of all my projects on a single page. 
 
 ## About data protection
-Please, understand that out of respect to my contractors, I can't disclose excesive information about projects I've woked on for third party companies.
+Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
 
 ## Content I should write here?
 
