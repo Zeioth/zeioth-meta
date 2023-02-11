@@ -72,5 +72,11 @@ X
 * AppleStoreCrawler (closed souce)
 * [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial)
 
+## Others
+
+* [Lutris](https://github.com/lutris): Website/application that allows a player to install any windows videogame on linux in a single click. In the past I've written a good amount of game installers. I currently give support to the community, report bugs, and help closing redundant issues.
+
+![screenshot_2023-02-11_21-55-27_593015469](https://user-images.githubusercontent.com/3357792/218280814-6e2f556c-b3b1-409c-a51c-c50e2abd0fd2.png)
+
 
 Also, count how many issues and PR you have reported in total.
