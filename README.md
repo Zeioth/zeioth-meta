@@ -22,6 +22,13 @@ A futile attempt to have a resume of all my projects on a single page.
 Projects listed here were developed for startups i've been cofounder of. 
 
 * Jinn.es: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam).
+
+.1 scrapers
+.2 Web + panel de admin.
+.3 sistema de login.
+.4 Diseño de producto.
+
+
 * GameMetrics.com: Analytics for game developers. Website that through the use of web crawling, statistics, and our own internal API, provided crucial market data to videogame developers. Incubated in ImpactHub Bucharest (Romania) and Polo Digital (Málaga).
 
 
