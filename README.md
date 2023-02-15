@@ -21,16 +21,17 @@ A futile attempt to have a resume of all my projects on a single page.
 
 Projects listed here were developed for startups i've been cofounder of. 
 
-* Jinn.es: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam).
+**Jinn.es**: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam).
 
-.1 scrapers
-.2 Web + panel de admin.
-.3 sistema de login.
-.4 Diseño de producto.
+
+* Web + panel de admin.
+* sistema de login.
+* Diseño de producto.
 
 
 * GameMetrics.com: Analytics for game developers. Website that through the use of web crawling, statistics, and our own internal API, provided crucial market data to videogame developers. Incubated in ImpactHub Bucharest (Romania) and Polo Digital (Málaga).
 
+* Generic Scraper: C# solution that consist in a set of cusomizable crawlers and scrapers written from scratch. It provides a config file that allow to configure the HTML strings to crawl/scrap. This makes it a generic scraper that can easily be adapted to any website to extract information. I also designed and implemented both, the MongoDB database, and the class that perform async operations to the database, with full error control, and retry management. The scrapers have the ability to run multi thread and multi process in perfect syncrony. It can also seamlessly recover in case internet conection is loss. It uses both curl and selenium, to allow scraping even pages that check il the user is human. We used this in-house tools to extract all the (legally available) information from GooglePlay, IOS, and other sources, to compute this data using data science and generate relevant predictive market data for our users. I currently own and manage the rights of this softwate.
 
 ## Remarkable projects
 
