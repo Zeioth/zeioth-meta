@@ -21,13 +21,15 @@ A futile attempt to have a resume of all my projects on a single page.
 
 Projects listed here were developed for startups i've been cofounder of. 
 
-**Jinn.es**: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam).
+**Jinn.es**: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam). My role on this company was both CTO and Full Stack Programmer. I managed a team of 2 programmers and 2 designers, as well as the project architecture.
 
-
-* Web + panel de admin.
-* sistema de login.
-* Diseño de producto.
-
+* Web: The main purpose of the site was to give to the user information about the top places to visit around him in the city. We achieved this bu showing a list of points of interest in the specified city (web version). It also counted with a search funtionality. 
+* Custom admin panel: We had different kinds of ures: "Writer", "admins" and "superusers", where an user could add points of interest, an admin could approve or reject them, and the superuser could add/delete any of the other roles.
+* Login system: I implemented from scrath both fronentend and backend of a complete login system, including email system, password recovery, error control, interactive password strenght check, and login/registraion through Google/Facebook. All this proved to be a big technical challenge that took many months, but it was ultimately achieved.
+* Product design: In the initial stages of the project, I designed 5 different corporative identities. Later on, I created mockups for every screen of the page. The smartphone app, and the logo of Jinn.es were designed by a people we hired.
+* Database: I designed a relation postgresql+postgis database capable of managing geopositional data at big data level.
+* Native Android/IOS application: While I didn't code the applications themselves, I coded the REST services that allowed the apps to communicate with the database using Django Rest Framework.
+* POST-MORTEM: This was my first project acting as CTO/Softwate Architect. It took us 1.5 years to complete the project. A titanic task for such an small team! It took a big toll on our health, but the satisfaction of having our product on the market made it worth it. Comertially was not a success, since we lacked the necessary knowledge on marketing, but we were satisfied, and part ways happily with the knowledge we obtained.
 
 * GameMetrics.com: Analytics for game developers. Website that through the use of web crawling, statistics, and our own internal API, provided crucial market data to videogame developers. Incubated in ImpactHub Bucharest (Romania) and Polo Digital (Málaga).
 
