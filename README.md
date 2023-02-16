@@ -38,6 +38,9 @@ Projects listed here were developed for startups i've been cofounder of.
 * Corporative documents: I was responsable for redacting and maintaining the business documents. Among others, the business plan (70 pages, coached by Alba Escobar Yus, from the university of Zaragoza), finantial plan, investor deck, one pager, pitching, value reseach, and negotiation with investors, for which I researched, redacted, and classified a list of the top 300 business angels and business fonds of Spain, as for this project we had the need of external growth. During our stance in Polo Digital we have the chance to speas with hundreds of game developers to further validate our hypotesis.
 * Interactive product design: For this project, You can check it [here](https://marvelapp.com/prototype/8g31ga1/screen/56679718).
 
+**BRAND PROTECTED BY CONFIDENCIALITY - Insurance broking company **
+We accepted this project in order to finance the development of GameMetrics. The requirements of this project were to develop a website that during the registration process, ask for certain data to the user, to later use it to offer him the best available insurance companies and offers for his particular case. The project was connected to a national database widely used by broking companies, accessed through SOAP. This project was particulary challenging, due to multiple requirements changes during development that considerable changed the foundations of the project. The development took 6 months, using Django and AngularJS.
+
 ## Remarkable projects
 
 
