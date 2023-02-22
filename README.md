@@ -124,5 +124,9 @@ I accepted this project in order to finance the development of GameMetrics. The 
 
 ![screenshot_2023-02-11_21-55-27_593015469](https://user-images.githubusercontent.com/3357792/218280814-6e2f556c-b3b1-409c-a51c-c50e2abd0fd2.png)
 
+* **Solar energy system for ebike**: I built this solar energy system to fuel my ebike in a 100% green way. I also built the ebike myself from scratch. It has a 1000W induction motor, and an autonomy of 10Ah.
+![ebike](https://user-images.githubusercontent.com/3357792/220614680-1f072a14-04fc-4f23-83cd-5bc8f7e861d4.jpg)
+
+
 ## About third party data protection
 Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
