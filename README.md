@@ -99,8 +99,8 @@ I accepted this project in order to finance the development of GameMetrics. The 
 * [angular-no-captcha](https://github.com/Zeioth/angular-no-captcha): I also implemented this Angular directive to use Google NoRecaptcha on the frontend.
 * [angular-satellizer](https://github.com/Zeioth/satellizer): I implemented this frontend collection of API calls as base for our registration system. It offered an boilerplate skeletong to the frontend registration system of Jinn.es
 * [Djoser](https://github.com/sunscrapers/djoser) I took this backend registration API reference and extended it with multiple features like custom registration emai, user registration using Facebook/Google, and many, many custom operations specific to our system in Jinn.es
-* Google PlayStoreCrawler (Chosed source)
-* AppleStoreCrawler (closed souce)
+* Google PlayStoreCrawler (Closed source)
+* AppleStoreCrawler (Closed souce)
 * [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial)
 
 ## Others
