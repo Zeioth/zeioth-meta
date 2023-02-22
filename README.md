@@ -31,12 +31,18 @@ Projects listed here were developed for startups i've been cofounder of.
 * Native Android/IOS application: While I didn't code the applications themselves, I coded the REST services that allowed the apps to communicate with the database using Django Rest Framework.
 * POST-MORTEM: This was my first project acting as CTO/Softwate Architect. It took us 1.5 years to complete the project. A titanic task for such an small team! It took a big toll on our health, but the satisfaction of having our product on the market made it worth it. Comertially was not a success, since we lacked the necessary knowledge on marketing, but we were satisfied, and part ways happily with the knowledge we obtained.
 
+![jinn_clipdrop-enhance](https://user-images.githubusercontent.com/3357792/220610739-57580506-af7e-4bd0-b97c-2cd91d35d3f8.jpg)
+
+
 **GameMetrics.com**: Analytics for game developers. Website that through the use of web crawling, statistics, and our own internal API, provided crucial market data to videogame developers. Incubated in ImpactHub Bucharest (Romania) and Polo Digital (Málaga). During the first years of the project I acted once more as CTO/Architect. On the second half on the project I stepped up as CEO.
 
 * Generic Scraper: C# solution that consist in a set of cusomizable crawlers and scrapers written from scratch. It provides a config file that allow to configure the HTML strings to crawl/scrap. This makes it a generic scraper that can easily be adapted to any website to extract information. I also designed and implemented both, the MongoDB database, and the class that perform async operations to the database, with full error control, and retry management. The scrapers have the ability to run multi thread and multi process in perfect syncrony. It can also seamlessly recover in case internet conection is loss. It uses both curl and selenium, to allow scraping even pages that check il the user is human. We used this in-house tools to extract all the (legally available) information from GooglePlay, IOS, and other sources, to compute this data using data science and generate relevant predictive market data for our users. I currently own and manage the rights of this softwate. This project took a full year to develop.
 * Demo: I coded an incomplete internal version of the project, to show to investors. It also aided me to convince the other founders. Architecture, backend, frontend and mongodb database were designed and progammed by me.
 * Corporative documents: I was responsable for redacting and maintaining the business documents. Among others, the business plan (70 pages, coached by Alba Escobar Yus, from the university of Zaragoza), finantial plan, investor deck, one pager, pitching, value reseach, and negotiation with investors, for which I researched, redacted, and classified a list of the top 300 business angels and business fonds of Spain, as for this project we had the need of external growth. During our stance in Polo Digital we have the chance to speas with hundreds of game developers to further validate our hypotesis.
 * Interactive product design: For this project, You can check it [here](https://marvelapp.com/prototype/8g31ga1/screen/56679718).
+
+![screenshot_2023-02-22_12-03-49_733656040](https://user-images.githubusercontent.com/3357792/220602244-1adbdc99-4372-45a3-9519-97284799fe21.png)
+
 
 **BRAND PROTECTED BY CONFIDENCIALITY - Insurance broking company**
 I accepted this project in order to finance the development of GameMetrics. The requirements of this project were to develop a website that during the registration process, ask for certain data to the user, to later use it to offer him the best available insurance companies and offers for his particular case. The project was connected to a national database widely used by broking companies, accessed through SOAP. This project was particulary challenging, due to multiple requirements changes during development that considerable changed the foundations of the project. The development took 6 months, using Django and AngularJS. I only designed the architecture, database, and coded backend and frontend, as a good part of the product design was provided to me. The rest of the team kept working on GameMetrics meanwhile.
@@ -45,13 +51,21 @@ I accepted this project in order to finance the development of GameMetrics. The 
 
 **[PackageMedia (Finland)](https://www.packagemedia.com/en/)**: I was hired to code a campaign for the finnish food brand saarioinen. The purpose was to create a landing page where people see a box saarioinen, and a text box under it. As the user writes the message, he sees it appear over the box of food. Once he submit the message, and its moderated by the team, this messages were phisically printer in the boxes of food. The concept was like "A message in a bottle", similar to cocacola where you can find your name in the bottle, but using actual messages written by our users. I mostly coded the frontend for this project using Vue.js. The challenging part of this project was to make it responsive, as the visual elements were very artistic.
 
+![sair](https://user-images.githubusercontent.com/3357792/220611367-3bd54b4c-b7d2-471e-93bc-c75f0a94a37f.png)
+
+
 **[EpicElite (Dubai)](https://epicelite.com/home)**: A service for musicians to upload their musid to multiple services at the same time, negotiate their copyright, manage their workflow, and more. I was hired as a full stack developer, writing the website in GraphQL, mostly frontend javascript map reduces and backend business logic. For this project we used React, having to migrate some parts from AngularJS too. About 50% of the project, I was also used for other purposes, writing automatized tests using cypress. I also aided to write the devops scripts necessary to migrate and refactor the legacy database into a sanitized pseudo-normalized new one. And other devops scripts for deployment during the transition to kubernetes.
+
+![ep](https://user-images.githubusercontent.com/3357792/220613128-b3aa9181-3909-4d10-846f-2f01f1319125.jpeg)
+
 
 ## Remarkable projects
 
 
 * [zeioth-qmk](https://github.com/Zeioth/zeioth-qmk): I coded this C driver for a wired wireless keyboard I built. I use it for coding when I'm not at home with my pocket computer. [More info](https://github.com/Zeioth/zeioth-keyboard-firmware).
+![corne1](https://user-images.githubusercontent.com/3357792/220613737-95f568ae-be30-4fad-b619-03b3293706e9.jpeg)
 * [zeioth-zmk](https://github.com/Zeioth/zeioth-zmk): I coded this C driver for a bluetooth wireless keyboard I built. I use it for coding when I'm not at home with my pocket computer. Because this version is wireless, it uses a different technology, so this is a new driver I wrote from scratch. [More info](https://github.com/Zeioth/zeioth-keyboard-firmware).
+![corne2](https://user-images.githubusercontent.com/3357792/220614115-800b2f30-2181-4f6f-abfe-ec5605518fdc.jpg)
 * [wofi-emoji](https://github.com/Zeioth/wofi-emoji): Emoji selector for Linux based on WOfi. The original author abandoned the project, so I continued it and fixed some bugs.![screenshot_2023-02-08_21-48-40_829722436](https://user-images.githubusercontent.com/3357792/217647818-1f710289-6032-4d3e-be83-4020e86fcf66.png)
 * [wofi-calc](https://github.com/Zeioth/wofi-calc): Linux calculator with a list of previous operations. Selecting one will copy it to the clipboard. Available on GitHub and ArchLinux AUR.
 ![screenshot_2023-02-11_21-31-36_246220057](https://user-images.githubusercontent.com/3357792/218279937-edab1c36-053c-4147-a4f4-51053b557645.png)
