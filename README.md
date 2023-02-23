@@ -6,7 +6,6 @@ A futile attempt to have a resume of all my projects on a single page.
 ## Content I should write here?
 
 
-* Pipy packages
 * Npm packages
 * Startups y subproyectos de estas. Experiencia y roles.
 * Also, count how many issues and PR you have reported in total.
