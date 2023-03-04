@@ -125,6 +125,23 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * **Solar ebike**: I built this solar energy system to fuel my ebike in a 100% green way. I also built the ebike myself from scratch. It has a 1000W induction motor, and an autonomy of 10Ah.
 ![ebike](https://user-images.githubusercontent.com/3357792/220614680-1f072a14-04fc-4f23-83cd-5bc8f7e861d4.jpg)
 
+## Videogame development
+
+* **Super commando fighter**: Along with the 3D artist who created the art of most boxes fox AMD graphic cards in the 2005-2010 period, I coded the system for a 2.5D platformer shooter, similar to "contra". Featuring a power up system. I coded this game while studying coding, so we never completed or released the game, but I learned a lot from it. I used Unity/C#.
+* **Destruction in wonderland**: After my first startup failed (jinn.es) I spent 6 months in creating another videogame in Unity/C#. This time I did both the game system, and the art using vectors (inkscape). I also designed 52 different levels for it on paper, of which I only realized one for the technical demo. The concept was similar to "Lemings", where characters move by themselves, and the objective of the player was to guide them to the exit by using explosive weapons, with game mechanics similar to the videogame "worms". The visual aspect was influenced by a mix of "World of goo" and "Kirby". The biggest challenge of this project was to code an dynamic 2D vector system, to draw a curve on screen that transform as the user drag the cursor to assist him during aiming, as at that time unity didn't include such feature. So I kinda had to make the library.
+* **Last train**: I coded this project for the VI edition of the Malaga Jam, a competition where people create a game in 72h, with a team of 5 people. My main goal was analyst, but I also coded the main mechanics, as the rest of the team focused on plot, art, and game design. We received a nomination to "Most original game".
+
+## Remarkable participation in events
+
+* **Juzz Banesto**:
+* **Think Big Telefónica**:
+* **AngularJS Málaga**: 
+* **Startup weekend**: 
+* **Malaga Jam VI**:
+* **EOI Europe**:
+* **Digital Polo**:
+* **EOI Málaga**
+* **500+ language exchanges**: 
 
 ## About third party data protection
 Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
