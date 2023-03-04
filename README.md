@@ -133,15 +133,18 @@ A personalized insurance comparator. I accepted this project in order to raise f
 
 ## Remarkable participation in events
 
-* **Juzz Banesto**:
-* **Think Big Telefónica**:
-* **AngularJS Málaga**: 
-* **Startup weekend**: 
-* **Malaga Jam VI**:
-* **EOI Europe**:
-* **Digital Polo**:
-* **EOI Málaga**
-* **500+ language exchanges**: 
+* **Juzz Banesto**: During my first startup (jinn.es) we attended to this progam, to learn the basics of how to grow a business.
+* **Think Big Telefónica**: Also during my first startup (jinn.es) we participated in the first edition of this national contest. I personally gave a speech for an aucience of 100+ potential investors in the main headquarters of telefonica (Madrid).
+* **AngularJS Málaga**: After participating in this event in the university of Málaga, the organizers invited me to a hackathlon where we discussed about our startups and projects. This ended in future colaborations and good relationships.
+* **Startup weekend**: We attended this event for recluiting developers.
+* **Malaga Jam VI**: We attended this event for recluiting developers.
+* **EOI Europe**: With our second startup (GameMetrics) we were accepted in this european program for startups of great potential. I were assigned to ImpactHub Bucharest, where I traveled in representation of the company to pitch our project, and receive advanced mentorship in business, product proposition, strategy, and marketing, along with other european startups of similar reach.
+* **Startarium**: During EOI Europe I had the oportunity to attend as part of the public to "Startarium", the biggest startups competition of Romania.
+* **Digital Polo**: We were incubated for 1.5 years here attending to all kind of events for startups and businesses.
+* **EOI Málaga**: We were incubated for 6 months, along with dozens of videogame studios and startups. I received very intensive business related mentorship, and dedicated most of my time here to corporative documents, proposals, and negotiations with investors.
+* **500+ language exchanges**: It's worth mentioning, that I've been attending to 1-2 language exchanges per week during the past 10 years, achieving english at native level.
+
+There are others relevant events, but I consider this is enough.
 
 ## About third party data protection
 Please, understand that out of respect to my contractors, I can't disclose detailed information about projects I've woked on for third party companies. In most cases this include screenshots, and/or implementation details.
