@@ -1,21 +1,6 @@
 # zeioth-meta
 A futile attempt to have a resume of all my projects on a single page. 
 
-
-
-## Content I should write here?
-
-
-* Npm packages
-* Startups y subproyectos de estas. Experiencia y roles.
-* Also, count how many issues and PR you have reported in total.
-
-## TODO:
-
-* ✅ Copy here the same of all your repositories. 
-* Delete what is not relevant. 
-* Add descriptions and photos.
-
 ## Startup projects
 
 Projects listed here were developed for startups i've been cofounder of. 
@@ -39,15 +24,23 @@ Projects listed here were developed for startups i've been cofounder of.
 * Demo: I coded an minimum viable version of the project, to show to investors. It also aided me to convince the other founders to join. Architecture, backend, frontend and mongodb database were designed and progammed by me.
 * Generic Scraper: C# solution that consist in a set of cusomizable crawlers and scrapers written from scratch. It provides a config file that allow to configure the HTML strings to crawl/scrap. This makes it a generic scraper that can easily be adapted to any website to extract information. I also designed and implemented both, the MongoDB database, and the class that perform async operations to the database, with full error control, and retry management. The scrapers have the ability to run multi thread and multi process in perfect syncrony. It can also seamlessly recover in case internet conection is loss. It uses both curl and selenium, to allow scraping even pages that check il the user is human. We used this in-house tools to extract all the (legally available) information from GooglePlay, IOS, and other sources, to compute this data using data science and generate relevant predictive market data for our users. I currently own and manage the rights of this softwate. This project took a full year to develop.
 * Corporative documents: I was responsable for redacting and maintaining the business documents. Among others, the business plan (70 pages, coached by Alba Escobar Yus, from the university of Zaragoza), finantial plan, investor deck, one pager, pitching, value reseach, and negotiation with investors, for which I researched, redacted, and classified a list of the top 300 business angels and business fonds of Spain, as for this project we had the need of external growth. During our stance in Polo Digital we have the chance to speas with hundreds of game developers to further validate our hypotesis.
+* DevOps department: Because Kubernetes didn't exist in this point yet, I coded my own kubernetes by using the Amazon AWS API (BOTO). It consisted in a TUI (text user interface) that gave us the ability to deploy automatically at will (continuous delivery). It also offered options to scale the site (spawning more instances/cache) and the database (creating more mongos/balancers for the mongodb cluster). This project was 100% functional and worked in production.
 * Prodect design: I was the main product design/product owner of this project. You can check an interactive presentation [here](https://marvelapp.com/prototype/8g31ga1/screen/56679718).
 * Team management: I was the scrumm master of this project, as well as responsible for reviewing the performance metrics, the consecution of goals, and the proposal of alternatives to achieve lean, meaningful results, aligned with our objetives and resources.
 ![screenshot_2023-02-22_12-03-49_733656040](https://user-images.githubusercontent.com/3357792/220602244-1adbdc99-4372-45a3-9519-97284799fe21.png)
 
 
-**Insurance broking company** (Some aspects protected by confidencialify): 
-A personalized insurance comparator. I accepted this project in order to raise funds the development of out startup (GameMetrics). The requirements of this project were to develop a website that, during the registration process, ask for certain data to the user, to later use it to offer him the best available insurance companies and offers for his particular case. The project was connected to a national database widely used by broking companies, accessed through SOAP. This project was particulary challenging, due to multiple requirements changes during development that considerable changed the foundations of the project. The development took 6 months, using Django and AngularJS. I only designed the architecture, database, and coded backend and frontend, as a most part of the product design was provided to me by the contractor. The rest of the team kept working on GameMetrics meanwhile.
+
+**Experimental on demand ecommerces provider platform**: I created a site where an user can create an ecommerce in one click (similar to shopify). 
+* **Landing page**: Nothing special here, but I decigned it and coded it.
+* **User backend**: Ecommerce where an user can buy an ecommerce (the ecommerce itself was magento too).
+* **Kubernetes cluster for Magento ecommerce**: I coded a kubernetes cluster to manage magento ecommerces. With ability to scale Redis cache and Varnish instances for maximum performance.
+* **Post-mortem**: Most part of the project was ready, but I was lacking the money and resources necessary to kickstart a business of such complexity, so I came back to work on international companies.
 
 ## International companies I've worked on
+
+**Insurance broking company** (Some aspects protected by confidencialify): 
+A personalized insurance comparator. I accepted this project in order to raise funds the development of out startup (GameMetrics). The requirements of this project were to develop a website that, during the registration process, ask for certain data to the user, to later use it to offer him the best available insurance companies and offers for his particular case. The project was connected to a national database widely used by broking companies, accessed through SOAP. This project was particulary challenging, due to multiple requirements changes during development that considerable changed the foundations of the project. The development took 6 months, using Django and AngularJS. I only designed the architecture, database, and coded backend and frontend, as a most part of the product design was provided to me by the contractor. The rest of the team kept working on GameMetrics meanwhile.
 
 **[PackageMedia (Finland)](https://www.packagemedia.com/en/)**: I was hired to code a campaign for the finnish food brand saarioinen. The purpose was to create a landing page where people see a box saarioinen, and a text box under it. As the user writes the message, he sees it appear over the box of food. Once he submit the message, and its moderated by the team, this messages were phisically printer in the boxes of food. The concept was like "A message in a bottle", similar to cocacola where you can find your name in the bottle, but using actual messages written by our users. I mostly coded the frontend for this project using Vue.js. The challenging part of this project was to make it responsive, as the visual elements were very artistic.
 
