@@ -62,7 +62,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![Manjaro sway](https://user-images.githubusercontent.com/3357792/218281847-18177729-04ba-4054-8fb7-281ed90d6040.png)
 ![corne2](https://user-images.githubusercontent.com/3357792/220614115-800b2f30-2181-4f6f-abfe-ec5605518fdc.jpg)
 * [wofi-emoji](https://github.com/Zeioth/wofi-emoji): Emoji selector for Linux based on Wofi. The original author abandoned the project, so I continued it and fixed some bugs.![screenshot_2023-02-08_21-48-40_829722436](https://user-images.githubusercontent.com/3357792/217647818-1f710289-6032-4d3e-be83-4020e86fcf66.png)
-* [wofi-calc](https://github.com/Zeioth/wofi-calc): Linux calculator with a list of previous operations. Selecting one will copy it to the clipboard. Available on GitHub and ArchLinux AUR.
+* [wofi-calc](https://github.com/Zeioth/wofi-calc): Linux calculator with a list of previous operations. Selecting one will copy it to the clipboard. Developer and maintainer. Available on GitHub and ArchLinux AUR.
 ![screenshot_2023-02-11_21-31-36_246220057](https://user-images.githubusercontent.com/3357792/218279937-edab1c36-053c-4147-a4f4-51053b557645.png)
 * [adrian-innotopic-test](https://github.com/Zeioth/adrian-innotopic-test) Real time coding skill test I had to pass in order to be hired by a previous company. Without any previous knowledge about the technology, I had 2h (extended to 4h) to setup a graphql/apollo project. The purpose of the test was to evaluate my decesion making and performance under stress.
 
