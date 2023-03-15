@@ -70,7 +70,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ## Personal/fun projects
 * [Brros](https://github.com/Zeioth/BrrrOS): My personal non-distributable Linux distribution, for professional usage. It's an installer that you run in a clean arch linux environment. It will install hundreds of packages and custom configurations in an automated way. It allows me to reinstall my system in a matter of minutes.
 ![screenshot_2023-02-11_21-49-07_340866431](https://user-images.githubusercontent.com/3357792/218280583-88c8e871-f61d-4292-98b3-a3dd1ea0c317.png)
-* Automated cloud backups: Bash script that encrypt and upload all my (safe) personal files to the cloud through a programmed task. It allow me to recover from any potential problem in my computer in a matter of minutes. I haven't made this one public, because it is 100% custom.
+* Automated cloud backups: Bash script that encrypt and upload all my (safe) personal files to the cloud through a programmed task. It allow me to recover from any potential problem in my computer in a matter of minutes. I haven't made this one public, in order to do not reveal where my files are located, for security.
 ![screenshot_2023-02-11_21-38-23_163064731](https://user-images.githubusercontent.com/3357792/218280171-8de5fe5b-9e67-4d28-aa5c-2482cb917a6b.png)
 * [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) I wrote a volume widget for [I3](https://github.com/i3/i3) desktop environment taskbar, compatible with [pipewire](https://pipewire.org/). It is used daily by thousands of people (see screenshot of the prev. entry).
 * [django-email-blacklist](https://github.com/Zeioth/django-email-blacklist): I wrote this python module that can be installed using pip. It is a backend class that allow you to compare an introduced email against a list of blacklisted providers, you can write. In pactice it prevent users from register in the your website using an internet fake email generator.
@@ -94,7 +94,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [angular-satellizer](https://github.com/Zeioth/satellizer): I implemented this frontend collection of API calls as base for our registration system. It offered an boilerplate skeletong to the frontend registration system of Jinn.es
 * [Djoser](https://github.com/sunscrapers/djoser) I took this backend registration API reference and extended it with multiple features like custom registration emai, user registration using Facebook/Google, and many, many custom operations specific to our system in Jinn.es
 * [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial)
-
+* [hls-to-rgb-hightweight](https://www.npmjs.com/package/hsl-to-rgb-lightweight) I coded this javascript library to define colors in hls format, to create the gradings I used for the charts of GameMetrics. This was the first library out there providing this feature following the ES6+ standar.
 
 ## Bug reports
 * [Wob](https://github.com/francma/wob): Volume bar for Linux. 
