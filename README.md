@@ -1,9 +1,9 @@
 # zeioth-meta
-A futile attempt to have a resume of all my projects on a single page. 
+In this page I give more detain about some of the projects I've participated on. Mostly personal, and FOSS projects, in order to respect confidenciality.
 
 ## Startup projects
 
-Projects listed here were developed for startups i've been cofounder of. 
+Projects listed here were developed for startups I've been cofounder of. 
 
 **Jinn.es**: The interactive traveling guide. National alternative to foursquare. Winner startup of the 1º edition of Think Big Telefonica Spain. Mentorized by the Banesto foundation (Yuzz progam). My role on this company was both CTO and Full Stack Programmer. I managed a team of 2 programmers and 2 designers, as well as the project architecture.
 
@@ -73,45 +73,46 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * Automated cloud backups: Bash script that encrypt and upload all my (safe) personal files to the cloud through a programmed task. It allow me to recover from any potential problem in my computer in a matter of minutes. I haven't made this one public, in order to do not reveal where my files are located, for security.
 ![screenshot_2023-02-11_21-38-23_163064731](https://user-images.githubusercontent.com/3357792/218280171-8de5fe5b-9e67-4d28-aa5c-2482cb917a6b.png)
 * [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) I wrote a volume widget for [I3](https://github.com/i3/i3) desktop environment taskbar, compatible with [pipewire](https://pipewire.org/). It is used daily by thousands of people (see screenshot of the prev. entry).
-* [django-email-blacklist](https://github.com/Zeioth/django-email-blacklist): I wrote this python module that can be installed using pip. It is a backend class that allow you to compare an introduced email against a list of blacklisted providers, you can write. In pactice it prevent users from register in the your website using an internet fake email generator.
+* [django-email-blacklist](https://github.com/Zeioth/django-email-blacklist): I wrote this python module that can be installed using pip. It is a backend class that allow you to compare an introduced email against a list of blacklisted providers, you can personalize. In pactice it prevent users from register in the your website using a fake email generator.
 * [rofi-shortcuts](https://github.com/Zeioth/rofi-shortcuts): I coded this project to help me memorize the 300+ keyboard shortcuts I use. To my surprise, the community loved this project. Likely, because it is very easy to customize.
 ![screenshot_2023-02-11_23-55-27_650860851](https://user-images.githubusercontent.com/3357792/218284556-1a75f16b-8153-4fd8-a04e-87f850a2b379.png)
 * [rofi-zeal](https://github.com/Zeioth/rofi-zeal): An assistant for programmers, where you can insert a class, and receive instant documentation about it. It work with all major languages. This project was also very well received.
 ![zeal](https://user-images.githubusercontent.com/3357792/218284504-0efe76de-ba0e-4cd8-a8cf-be3e86477b7d.png)
 * [atom-visual-studio-code-ui](https://github.com/Zeioth/atom-visual-studio-code-ui): I designed and coded a visual theme for the Atom text editor, based on visual studio code. It was challenging to achieve a high quality result because the GUI of both editors is esentially quite different.
+![screenshot_2023-03-15_20-15-37_956903150](https://user-images.githubusercontent.com/3357792/225419014-7a86ee45-77b8-43c6-958c-9892dd5cebab.png)
 * [atom-visual-studio-code-light-ui](https://github.com/Zeioth/atom-visual-studio-code-light-ui): Due to its popularity I released a second version, in light colors.
+![screenshot_2023-03-15_20-16-27_195888964](https://user-images.githubusercontent.com/3357792/225419056-e77ad1b0-c6ee-404f-aa8b-2aecca691736.png)
 * [optimus-manager-qt](https://github.com/Askannz/optimus-manager): This small utility is used to chose and configure graphic cards on laptops where you have more than one in an easy way. I asissted the main developer during the initial phases of testing, reported bugs, and translated/added the spanish language.
+![qt](https://user-images.githubusercontent.com/3357792/225419217-320035e0-a3b2-41ce-a9b0-4f3569aef463.png)
 * [dxvk-cache-pool](https://github.com/rcpoison/dxvk-cache-pool): This is a procursor of the system Valve currently uses for Steam to distribute shader cache files. It lacked a way to validate a shader cache file in a safe way, so a system where users could vote was implemented via TUI. It was finally discontinued, as Valve took it as reference to design their own system. I asissted the main developer during the initial phases of testing, and reported bugs.
 ![land1](https://user-images.githubusercontent.com/3357792/220615621-ff2c4450-1c0c-4c45-9f92-c3a0f52dbad4.png)
 * [XFCE-Wacom-Settings ](https://github.com/Zeioth/XFCE-Wacom-Settings): I coded this package to make possible installing Gnome's WACOM control panel in the XFCE desktop environment. It worked for many years until Gnome changed its architecture, further integrating all its components into mutter, so we had to drop the support. To this day, XFCE haven't had an alternative to this project.
 ![wac](https://user-images.githubusercontent.com/3357792/218285332-1a3fef99-5289-447d-8f27-bec1544f2b63.png)
-* [TwitterFollowBot](https://github.com/rhiever/TwitterFollowBot): I personally automated this twitter bot to act as a worked of our startup in order to get followXFollow traffic based on certain user profile and criteria. The strategy proved to be successful, and our community manager regulary maintained [our community of 2500+ followers](https://twitter.com/game_metrics).
+* [TwitterFollowBot](https://github.com/rhiever/TwitterFollowBot): I personally automated this twitter bot to act as a worker of our startup in order to get followXFollow traffic based on certain user profile and criteria. The strategy proved to be successful, and our community manager regulary maintained [our community of 2500+ followers](https://twitter.com/game_metrics).
 * [Doxigen-bootstrapped](https://github.com/Velron/doxygen-bootstrapped): A visual theme for the documentation generator doxigen based on bootstrap. I coded multiple bugfixes and improvemens, that ultimately allowed our team to read and generate documentation more effectively.
 * [Django-ses](https://github.com/Zeioth/django-ses): This is a Django helper for amazon SES email service. The project was temporary abandoned so I coded the support for Python 3+.
 * [Git-cola](https://github.com/git-cola/git-cola): I proposed a couple improvemens. The developers agreed and implemented them in less than 24h, so I contributed by improving the spanish translation of the project, fixing new features lacking a proper translation.
 * [NoRecaptcha-python3](https://github.com/Zeioth/norecaptcha-python3): I coded this wrapper that allow to use the first version of Google NoRecaptcha on python3+.
-* [angular-no-captcha](https://github.com/Zeioth/angular-no-captcha): I also implemented this Angular directive to use Google NoRecaptcha on the frontend.
-* [angular-satellizer](https://github.com/Zeioth/satellizer): I implemented this frontend collection of API calls as base for our registration system. It offered an boilerplate skeletong to the frontend registration system of Jinn.es
-* [Djoser](https://github.com/sunscrapers/djoser) I took this backend registration API reference and extended it with multiple features like custom registration emai, user registration using Facebook/Google, and many, many custom operations specific to our system in Jinn.es
-* [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial)
-* [hls-to-rgb-hightweight](https://www.npmjs.com/package/hsl-to-rgb-lightweight) I coded this javascript library to define colors in hls format, to create the gradings I used for the charts of GameMetrics. This was the first library out there providing this feature following the ES6+ standar.
+* [angular-no-captcha](https://github.com/Zeioth/angular-no-captcha): I implemented this Angular directive to use Google NoRecaptcha on the frontend.
+* [angular-satellizer](https://github.com/Zeioth/satellizer): I implemented this frontend collection of API calls as base for our registration system. It offered a boilerplate skeleton to the frontend registration system of Jinn.es
+* [Djoser](https://github.com/sunscrapers/djoser): I took this backend registration API reference and extended it with multiple features like custom registration email, user registration using Facebook/Google, and many, many custom operations specific to our system in Jinn.es
+* [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial): I implemented both the backend and the frontend of an interactive password strenght bar in the registration form to guide our users in thinking an strong password.
+* [hls-to-rgb-hightweight](https://www.npmjs.com/package/hsl-to-rgb-lightweight) I coded this javascript library to define colors in HLS format, in order to create the color gradings we used for the data charts in GameMetrics. This was the first library out there providing this feature following the ES6+ standar.
+* Linux-command-gpt: I maintain the AUR repository of this chatGPT client for the linux terminal. One can ask anything to the terminal in human language, and accept or re-generate the actions to perform. For example: "List the name of every .txt file in this directory and print the last 3 lines of each."
+![screenshot_2023-03-15_21-10-57_521507280](https://user-images.githubusercontent.com/3357792/225430955-b3782bf6-f757-425e-96af-de281df3097b.png)
 
 ## Bug reports
+Through the years I've opened around 1000 issues in github. Some recent ones are:
+
 * [Wob](https://github.com/francma/wob): Volume bar for Linux. 
 ![screenshot_2023-02-11_21-28-34_120481289](https://user-images.githubusercontent.com/3357792/218279822-cc3c44ce-4302-4ca5-b4b5-003f937a4214.png)
 * [vimium-c](https://github.com/gdh1995/vimium-c): Browser extension that add VIM keybindings. I reported a critical bug preventing some pages to be opened correctly. And a few minor ones.
 * [MangoHud](https://github.com/flightlessmango/MangoHud): An overlay that shows diverse hardware information. Recently adopted by Valve's SteamDeck. Bug reports.
 
 
-
-
-
-
-
 ## Others
 
 * [Lutris](https://github.com/lutris): Website/application that allows a player to install any windows videogame on linux in a single click. In the past I've written a good amount of game installers. I currently give support to the community, report bugs, and help closing redundant issues.
-
 
 ![screenshot_2023-02-11_21-55-27_593015469](https://user-images.githubusercontent.com/3357792/218280814-6e2f556c-b3b1-409c-a51c-c50e2abd0fd2.png)
 
@@ -122,7 +123,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 
 * **Super commando fighter**: Along with the 3D artist who created the art of most boxes fox AMD graphic cards in the 2005-2010 period, I coded the system for a 2.5D platformer shooter, similar to "contra". Featuring a power up system. I coded this game while studying coding, so we never completed or released the game, but I learned a lot from it. I used Unity/C#.
 * **Destruction in wonderland**: After my first startup failed (jinn.es) I spent 6 months in creating another videogame in Unity/C#. This time I did both the game system, and the art using vectors (inkscape). I also designed 52 different levels for it on paper, of which I only realized one for the technical demo. The concept was similar to "Lemings", where characters move by themselves, and the objective of the player was to guide them to the exit by using explosive weapons, with game mechanics similar to the videogame "worms". The visual aspect was influenced by a mix of "World of goo" and "Kirby". The biggest challenge of this project was to code an dynamic 2D vector system, to draw a curve on screen that transform as the user drag the cursor to assist him during aiming, as at that time unity didn't include such feature. So I kinda had to make the library.
-* **Last train**: I coded this project for the VI edition of the Malaga Jam, a competition where people create a game in 72h, with a team of 5 people. My main goal was analyst, but I also coded the main mechanics, as the rest of the team focused on plot, art, and game design. We received a nomination to "Most original game".
+* **Last train**: I coded this project for the VI edition of "Malaga Jam", a competition where people create a game in 72h, with a team of 5 people. My main goal was analyst, but I also coded the main mechanics, as the rest of the team focused on plot, art, and game design. We received a nomination to "Most original game".
 
 ## Remarkable participation in events
 
