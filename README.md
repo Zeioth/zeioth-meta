@@ -83,6 +83,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [atom-visual-studio-code-light-ui](https://github.com/Zeioth/atom-visual-studio-code-light-ui): Due to its popularity I released a second version, in light colors.
 ![screenshot_2023-03-15_20-16-27_195888964](https://user-images.githubusercontent.com/3357792/225419056-e77ad1b0-c6ee-404f-aa8b-2aecca691736.png)
 * [optimus-manager-qt](https://github.com/Askannz/optimus-manager): This small utility is used to chose and configure graphic cards on laptops where you have more than one in an easy way. I assisted the main developer during the initial phases of testing, reported bugs, and translated/added the spanish language.
+
 ![qt](https://user-images.githubusercontent.com/3357792/225419217-320035e0-a3b2-41ce-a9b0-4f3569aef463.png)
 * [dxvk-cache-pool](https://github.com/rcpoison/dxvk-cache-pool): This is a precursor of the system Valve currently uses for Steam to distribute shader cache files. It lacked a way to validate a shader cache file in a safe way, so a system where users could vote was implemented via TUI. It was finally discontinued, as Valve took it as reference to design their own system. I asissted the main developer during the initial phases of testing, and reported bugs.
 ![land1](https://user-images.githubusercontent.com/3357792/220615621-ff2c4450-1c0c-4c45-9f92-c3a0f52dbad4.png)
