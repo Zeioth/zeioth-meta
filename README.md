@@ -103,7 +103,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![screenshot_2023-03-15_21-10-57_521507280](https://user-images.githubusercontent.com/3357792/225430955-b3782bf6-f757-425e-96af-de281df3097b.png)
 
 ## Bug reports
-Through the years I've opened around 1000 issues in GitHub/GitLab. Some recent ones are:
+Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
 
 * [Wob](https://github.com/francma/wob): Volume bar for Linux. 
 ![screenshot_2023-02-11_21-28-34_120481289](https://user-images.githubusercontent.com/3357792/218279822-cc3c44ce-4302-4ca5-b4b5-003f937a4214.png)
