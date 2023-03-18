@@ -99,7 +99,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [Djoser](https://github.com/sunscrapers/djoser): I took this back end registration API reference and extended it with multiple features like custom registration email, user registration using Facebook/Google, and many, many custom operations specific to our system in Jinn.es
 * [password-meter-tutorial](https://github.com/Zeioth/password-meter-tutorial): I implemented both the back end and the front end of an interactive password strenght bar in the registration form to guide our users in thinking an strong password.
 * [hls-to-rgb-hightweight](https://www.npmjs.com/package/hsl-to-rgb-lightweight) I coded this JavaScript library to define colors in HLS format, in order to create the color gradients we used for the data charts in GameMetrics. This was the first library out there providing this feature following the ES6+ standard.
-* Linux-command-gpt: I maintain the AUR repository of this ChatGPT client for the Linux terminal. One can ask anything to the terminal in human language, and accept or re-generate the actions to perform. For example: “List the name of every .txt file in this directory and print the last 3 lines of each.”
+* [Linux-command-gpt](https://aur.archlinux.org/packages/linux-command-gpt): I maintain the AUR repository of this ChatGPT client for the Linux terminal. One can ask anything to the terminal in human language, and accept or re-generate the actions to perform. For example: “List the name of every .txt file in this directory and print the last 3 lines of each.”
 ![screenshot_2023-03-15_21-10-57_521507280](https://user-images.githubusercontent.com/3357792/225430955-b3782bf6-f757-425e-96af-de281df3097b.png)
 
 ## Bug reports
