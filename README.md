@@ -101,6 +101,8 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [hls-to-rgb-hightweight](https://www.npmjs.com/package/hsl-to-rgb-lightweight) I coded this JavaScript library to define colors in HLS format, in order to create the color gradients we used for the data charts in GameMetrics. This was the first library out there providing this feature following the ES6+ standard.
 * [Linux-command-gpt](https://aur.archlinux.org/packages/linux-command-gpt): I maintain the AUR repository of this ChatGPT client for the Linux terminal. One can ask anything to the terminal in human language, and accept or re-generate the actions to perform. For example: “List the name of every .txt file in this directory and print the last 3 lines of each.”
 ![screenshot_2023-03-18_22-40-44_795860264](https://user-images.githubusercontent.com/3357792/226144579-b1944698-cfef-44c3-a0cb-0dc558a84c4f.png)
+* [chatgpt-shell-cli ](https://aur.archlinux.org/packages/chatgpt-shell-cli): I maintain the AUR repository of this ChatGPT client for the Linux terminal. This is the 'normal' chatGPT everyone uses and love, just in the terminal. It supports chatGPT-4 and can generate images too.
+![screenshot_2023-03-19_18-37-50_173194099](https://user-images.githubusercontent.com/3357792/226197689-e53771e9-aa11-4043-b3b5-28701abd0fa7.png)
 
 
 ## Bug reports
