@@ -103,6 +103,8 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![screenshot_2023-03-18_22-40-44_795860264](https://user-images.githubusercontent.com/3357792/226144579-b1944698-cfef-44c3-a0cb-0dc558a84c4f.png)
 * [chatgpt-shell-cli ](https://aur.archlinux.org/packages/chatgpt-shell-cli): I maintain the AUR repository of this ChatGPT client for the Linux terminal. This is the 'normal' chatGPT everyone uses and love, just in the terminal. It supports chatGPT-4 and can generate images too.
 ![screenshot_2023-03-19_18-29-47_270523823](https://user-images.githubusercontent.com/3357792/226197752-3216423f-d0c6-4542-a43e-cd304eb7ad66.png)
+* [termux-docker](https://github.com/Zeioth/termux-docker): I made an script to install docker/portainer/kubernetes in a single command on Android through qemu. This is necessary because Android doesn't have the necessary modules to run Docker without a virtual machine.
+![doc](https://user-images.githubusercontent.com/3357792/229593872-84eabdfa-9ca1-4e0f-872c-4b26a61c9ceb.jpg)
 
 
 ## Bug reports
