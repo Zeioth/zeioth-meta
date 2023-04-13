@@ -105,6 +105,8 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![screenshot_2023-03-19_18-29-47_270523823](https://user-images.githubusercontent.com/3357792/226197752-3216423f-d0c6-4542-a43e-cd304eb7ad66.png)
 * [termux-docker](https://github.com/Zeioth/termux-docker): I made an wrapper to install docker/portainer/kubernetes in a single command on Android through qemu. This was necessary because Android doesn't have the necessary modules to run Docker without a virtual machine.
 ![doc](https://user-images.githubusercontent.com/3357792/229593872-84eabdfa-9ca1-4e0f-872c-4b26a61c9ceb.jpg)
+* [LatencyFlex2-installer](https://github.com/Zeioth/LatencyFlex2-installer): Installer for the technology Nvidia Reflex. It is used to reduce GPU input latency.
+![nvidia-reflex-latency-pipeline-with-overlap](https://user-images.githubusercontent.com/3357792/231620107-76212d8a-ef26-4796-9f91-8d845c514332.png)
 
 
 ## Bug reports
