@@ -107,7 +107,10 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![doc](https://user-images.githubusercontent.com/3357792/229593872-84eabdfa-9ca1-4e0f-872c-4b26a61c9ceb.jpg)
 * [LatencyFlex2-installer](https://github.com/Zeioth/latencyflex2-installer): Installer for the technology Nvidia Reflex. It is used to reduce GPU input latency.
 ![nvidia-reflex-latency-pipeline-with-overlap](https://user-images.githubusercontent.com/3357792/231620107-76212d8a-ef26-4796-9f91-8d845c514332.png)
-
+* [LatencyFlex2-installer](https://github.com/Zeioth/latencyflex2-installer): Installer for the technology Nvidia Reflex. It is used to reduce GPU input latency.
+![nvidia-reflex-latency-pipeline-with-overlap](https://user-images.githubusercontent.com/3357792/231620107-76212d8a-ef26-4796-9f91-8d845c514332.png)
+* [vim-doxygen](https://github.com/Zeioth/vim-doxygen): I coded this vim plugin in 48h to automatically generate documentation for all my projects as I work. It also serves me as code analyzer for big projects. Full documentation can be found[here](https://github.com/Zeioth/vim-doxygen/blob/main/doc/doxygen.txt).
+* [vim-doxygen-template](https://github.com/Zeioth/vim-doxygen-template): Example config for the former.
 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
