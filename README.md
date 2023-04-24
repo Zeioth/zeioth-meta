@@ -113,6 +113,9 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![screenshot_2023-04-21_21-43-17_433261534](https://user-images.githubusercontent.com/3357792/233721846-f2c6b33b-95df-4b5e-be77-2db8dd386441.png)
 * [vim-doxygen-template](https://github.com/Zeioth/vim-doxygen-template): Reference config for the former. People use it as reference to upload their configs.
 * [vim-typedoc](https://github.com/Zeioth/vim-typedoc): I also coded a plugin to automatically generate typedoc documentation and open it inside VIM.
+* [vim-rustdoc](https://github.com/Zeioth/vim-rustdoc): I also coded a plugin to automatically generate rustdoc documentation and open it inside VIM.
+* [vim-godoc](https://github.com/Zeioth/vim-godoc): I also coded a plugin to automatically generate godoc documentation and open it inside VIM.
+* [vim-jsdoc](https://github.com/Zeioth/vim-jsdocdoc): I also coded a plugin to automatically generate jsdoc documentation and open it inside VIM.
 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
