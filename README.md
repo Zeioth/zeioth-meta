@@ -116,6 +116,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [vim-rustdoc](https://github.com/Zeioth/vim-rustdoc): I also coded a plugin to automatically generate rustdoc documentation and open it inside VIM.
 * [vim-godoc](https://github.com/Zeioth/vim-godoc): I also coded a plugin to automatically generate godoc documentation and open it inside VIM.
 * [vim-jsdoc](https://github.com/Zeioth/vim-jsdocdoc): I also coded a plugin to automatically generate jsdoc documentation and open it inside VIM.
+* [vim-dooku](https://github.com/Zeioth/vim-jsdocdoc): Umprella probject where I list all my VIM code documentation/analyzer plugins.
 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
