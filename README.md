@@ -117,7 +117,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [vim-godoc](https://github.com/Zeioth/vim-godoc): I also coded a plugin to automatically generate godoc documentation and open it inside VIM.
 * [vim-jsdoc](https://github.com/Zeioth/vim-jsdocdoc): I also coded a plugin to automatically generate jsdoc documentation and open it inside VIM.
 * [vim-dooku](https://github.com/Zeioth/vim-jsdocdoc): Umprella probject where I list all my VIM code documentation/analyzer plugins.
-
+* [hyprshot](https://github.com/Zeioth/hyprshot): Screenshot utility for the hyprland tiling environment. 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
 
