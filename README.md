@@ -1,5 +1,5 @@
 # zeioth-meta
-In this page I give more detain about some of the projects I've participated on. Mostly personal, and FOSS projects, in order to respect confidentiality.
+In this page I give more detail about some of the projects I've participated on. Mostly personal, and FOSS projects, in order to respect confidentiality.
 
 ## Startup projects
 
