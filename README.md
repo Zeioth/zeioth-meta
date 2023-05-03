@@ -133,9 +133,7 @@ Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trac
 
 * **Solar ebike**: I built this solar energy system to fuel my ebike in a 100% green way. I also built the ebike myself from scratch. It has a 1000W induction motor, and an autonomy of 10Ah.
 
-![bik](https://user-images.githubusercontent.com/3357792/235879206-389b4c14-3c3b-4888-b78a-57f77ec01654.jpg)
-
-
+![bike](https://user-images.githubusercontent.com/3357792/235879485-14285123-dcd8-4e04-b567-ff66fd67a0c9.jpg)
 
 ## Video game development
 
