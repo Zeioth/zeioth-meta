@@ -119,7 +119,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [hyprshotgun](https://github.com/Zeioth/hyprshotgun): Screenshot utility for the hyprland tiling environment. 
 * [friendly-snippets](https://github.com/Zeioth/friendly-snippets): My contributions to this project are the implementation of the official specifications of [tsdoc](https://typedoc.org/), [jsdoc](https://jsdoc.app/), [C# docs](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/documentation-comments#d3-recommended-tags), and [luadoc](https://keplerproject.github.io/luadoc/manual.html#tags). This help thousands of neovim users to have code autocompletion when writing code comments. Increasing their productivity.
 * [Rnvimr](https://github.com/Zeioth/rnvimr): Part of a colaborative effort that successfuly added mouse support to this file browser for the terminal.
-* [Markmap.nvim](https://github.com/Zeioth/markmap.nvim): I'm the author of this plugin to create mental maps.
+* [Markmap.nvim](https://github.com/Zeioth/markmap.nvim): I'm the author of this plugin to generate mental maps from a markdown file in real time.
 ![map](https://github.com/Zeioth/zeioth-meta/assets/3357792/17429fc5-723c-49de-bafc-3793a1c77b0f)
 * [NormalNvim](https://github.com/Zeioth/NormalNvim): I'm the author of this IDE based on neovim.
 
