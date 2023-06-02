@@ -116,7 +116,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [vim-godoc](https://github.com/Zeioth/vim-godoc): I also coded a plugin to automatically generate godoc documentation and open it inside VIM.
 * [vim-jsdoc](https://github.com/Zeioth/vim-jsdocdoc): I also coded a plugin to automatically generate jsdoc documentation and open it inside VIM.
 * [vim-dooku](https://github.com/Zeioth/vim-jsdocdoc): Umprella probject where I list all my VIM code documentation/analyzer plugins.
-* [hyprshotgun](https://github.com/Zeioth/hyprshotgun): Screenshot utility for the hyprland tiling environment. 
+* [hyprshotgun](https://github.com/Zeioth/hyprshotgun): Author of this screenshot utility for the hyprland tiling environment. 
 * [friendly-snippets](https://github.com/Zeioth/friendly-snippets): My contributions to this project are the implementation of the official specifications of [tsdoc](https://typedoc.org/), [jsdoc](https://jsdoc.app/), [C# docs](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/documentation-comments#d3-recommended-tags), and [luadoc](https://keplerproject.github.io/luadoc/manual.html#tags). This help thousands of neovim users to have code autocompletion when writing code comments. Increasing their productivity.
 * [Rnvimr](https://github.com/Zeioth/rnvimr): Part of a colaborative effort that successfuly added mouse support to this file browser for the terminal.
 * [Markmap.nvim](https://github.com/Zeioth/markmap.nvim): I'm the author of this plugin to generate mental maps from a markdown file in real time.
