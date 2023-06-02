@@ -107,6 +107,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![doc](https://user-images.githubusercontent.com/3357792/229593872-84eabdfa-9ca1-4e0f-872c-4b26a61c9ceb.jpg)
 * [LatencyFlex2-installer](https://github.com/Zeioth/latencyflex2-installer): Installer for the technology Nvidia Reflex. It is used to reduce GPU input latency.
 ![nvidia-reflex-latency-pipeline-with-overlap](https://user-images.githubusercontent.com/3357792/231620107-76212d8a-ef26-4796-9f91-8d845c514332.png)
+* [fzf-kill](https://github.com/Zeioth/fzf-kill): I'm the author of this lightweight task killer based on [fzf](https://github.com/junegunn/fzf).
 * [vim-doxygen](https://github.com/Zeioth/vim-doxygen): I coded this vim plugin in 48h to automatically generate documentation for all my projects as I work. It also serves me as code analyzer for big projects. Full documentation can be found [here](https://github.com/Zeioth/vim-doxygen/blob/main/doc/doxygen.txt).
 ![screenshot_2023-04-21_21-43-17_433261534](https://user-images.githubusercontent.com/3357792/233721846-f2c6b33b-95df-4b5e-be77-2db8dd386441.png)
 * [vim-doxygen-template](https://github.com/Zeioth/vim-doxygen-template): Reference config for the former. People use it as reference to upload their configs.
@@ -116,6 +117,12 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [vim-jsdoc](https://github.com/Zeioth/vim-jsdocdoc): I also coded a plugin to automatically generate jsdoc documentation and open it inside VIM.
 * [vim-dooku](https://github.com/Zeioth/vim-jsdocdoc): Umprella probject where I list all my VIM code documentation/analyzer plugins.
 * [hyprshotgun](https://github.com/Zeioth/hyprshotgun): Screenshot utility for the hyprland tiling environment. 
+* [friendly-snippets](https://github.com/Zeioth/friendly-snippets): My contributions to this project are the implementation of the official specifications of [tsdoc](https://typedoc.org/), [jsdoc](https://jsdoc.app/), [C# docs](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/documentation-comments#d3-recommended-tags), and [luadoc](https://keplerproject.github.io/luadoc/manual.html#tags). This help thousands of neovim users to have code autocompletion when writing code comments. Increasing their productivity.
+* [Rnvimr](https://github.com/Zeioth/rnvimr): Part of a colaborative effort that successfuly added mouse support to this file browser for the terminal.
+* [Markmap.nvim](https://github.com/Zeioth/markmap.nvim): I'm the author of this plugin to create mental maps.
+![screenshot_2023-06-02_20-58-51_802611802](https://github.com/Zeioth/zeioth-meta/assets/3357792/e8b98415-d5be-4e99-a56d-f13d06beb0f2)
+* [NormalNvim](https://github.com/Zeioth/NormalNvim): I'm the author of this IDE based on neovim.
+
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
 
