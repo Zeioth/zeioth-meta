@@ -122,6 +122,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 * [Markmap.nvim](https://github.com/Zeioth/markmap.nvim): I'm the author of this plugin to generate mental maps from a markdown file in real time. I learned the LUA programming language while making it.
 ![map](https://github.com/Zeioth/zeioth-meta/assets/3357792/17429fc5-723c-49de-bafc-3793a1c77b0f)
 * [NormalNvim](https://github.com/Zeioth/NormalNvim): I'm the author of this IDE based on neovim.
+* Compiler.nvim(https://github.com/Zeioth/Compiler.nvim): I coded this compiler capable of detecting the programming language you are using. It not only programs, but also solutions.
 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
