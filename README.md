@@ -125,7 +125,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![normal](https://github.com/Zeioth/zeioth-meta/assets/3357792/cc3add7e-b3fd-41c8-8816-439e94c82748)
 * Compiler.nvim(https://github.com/Zeioth/Compiler.nvim): I coded this compiler capable of detecting the programming language you are using. It can compile not only programs, but also solutions.
 ![screenshot_2023-06-19_13-59-37_766847673](https://github.com/Zeioth/zeioth-meta/assets/3357792/87bf4c5f-5590-437b-9857-19fb1213d5bc)
-
+* [Dooku.nvim](https://github.com/Zeioth/dooku.nvim): Generate and open your code documentation on neovim. I This project integrate the projects [vim-doxygen](https://github.com/Zeioth/vim-doxygen), [vim-typedoc](https://github.com/Zeioth/vim-typedoc), [vim-jsdoc](https://github.com/Zeioth/vim-jsdoc), [vim-rustdoc](https://github.com/Zeioth/vim-rustdoc), and [vim-godoc](https://github.com/Zeioth/vim-godoc), into a single plugin. Coded in lua.
 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
