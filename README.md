@@ -124,7 +124,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![map](https://github.com/Zeioth/zeioth-meta/assets/3357792/17429fc5-723c-49de-bafc-3793a1c77b0f)
 * [NormalNvim](https://github.com/Zeioth/NormalNvim): I'm the author of this IDE based on neovim.
 ![normal](https://github.com/Zeioth/zeioth-meta/assets/3357792/cc3add7e-b3fd-41c8-8816-439e94c82748)
-* Compiler.nvim(https://github.com/Zeioth/Compiler.nvim): I coded this compiler capable of detecting the programming language you are using. It can compile not only programs, but also solutions. It support 22+ programming languages.
+* [Compiler.nvim](https://github.com/Zeioth/Compiler.nvim): I coded this compiler capable of detecting the programming language you are using. It can compile not only programs, but also solutions. It support 22+ programming languages.
 ![screenshot_2023-06-19_13-59-37_766847673](https://github.com/Zeioth/zeioth-meta/assets/3357792/87bf4c5f-5590-437b-9857-19fb1213d5bc)
 * [Dooku.nvim](https://github.com/Zeioth/dooku.nvim): Generate and open your code documentation inside neovim. This project integrates [vim-doxygen](https://github.com/Zeioth/vim-doxygen), [vim-typedoc](https://github.com/Zeioth/vim-typedoc), [vim-jsdoc](https://github.com/Zeioth/vim-jsdoc), [vim-rustdoc](https://github.com/Zeioth/vim-rustdoc), and [vim-godoc](https://github.com/Zeioth/vim-godoc) into a single plugin coded in lua. It implements the design pattern "dependency injection".
 * [Makeit.nvim](https://github.com/Zeioth/makeit.nvim): Helper to run Makefile commands inside neovim in a UX friendly way.
