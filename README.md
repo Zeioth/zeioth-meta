@@ -128,6 +128,7 @@ A personalized insurance comparator. I accepted this project in order to raise f
 ![screenshot_2023-06-19_13-59-37_766847673](https://github.com/Zeioth/zeioth-meta/assets/3357792/87bf4c5f-5590-437b-9857-19fb1213d5bc)
 * [Dooku.nvim](https://github.com/Zeioth/dooku.nvim): Generate and open your code documentation inside neovim. This project integrates [vim-doxygen](https://github.com/Zeioth/vim-doxygen), [vim-typedoc](https://github.com/Zeioth/vim-typedoc), [vim-jsdoc](https://github.com/Zeioth/vim-jsdoc), [vim-rustdoc](https://github.com/Zeioth/vim-rustdoc), and [vim-godoc](https://github.com/Zeioth/vim-godoc) into a single plugin coded in lua. It implements the design pattern "dependency injection".
 * [Makeit.nvim](https://github.com/Zeioth/makeit.nvim): Helper to run Makefile commands inside neovim in a UX friendly way.
+* [garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim): I coded this garbage collector for the LSP language server for neovim.
 
 ## Bug reports
 Through the years I've opened around 500+ issues in GitHub/GitLab/Other bug trackers. Some recent ones are:
